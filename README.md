@@ -11,7 +11,7 @@ This repository introduces a Taxi Management System aimed at simplifying taxi op
 
 ## Technologies Used
 
-- **Database**: PostgreSQL for storing user profiles, ride history, and operational data.
+- **Database**: SQL and PostgreSQL for storing user profiles, ride history, and operational data.
 
 ## Getting Started
 
