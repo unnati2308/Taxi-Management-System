@@ -27,4 +27,3 @@ To run the Taxi Management System locally, follow these steps:
 ## Contributions
 
 Contributions to the Taxi Management System are welcome. Whether you're interested in adding new features, optimizing existing functionality, or fixing bugs, please feel free to fork the repository, make your changes, and submit a pull request.
-
