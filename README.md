@@ -1,6 +1,6 @@
 # Taxi Management System
 
-This repository presents a Taxi Management System designed to streamline taxi operations, enhance passenger experiences, and optimize fleet management. Utilizing Python and Django for backend development, this system addresses the complexities of taxi services, offering functionalities such as ride booking, driver dispatching, fare calculation, and real-time tracking.
+This repository introduces a Taxi Management System aimed at simplifying taxi operations, improving passenger experiences, and maximizing fleet efficiency. The system is designed to tackle the intricacies of taxi services, featuring capabilities such as ride booking, driver dispatching, fare computation, and real-time tracking.
 
 ## Key Features
 
